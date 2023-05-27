@@ -38,7 +38,7 @@ def bubble_sort(collection):
                 collection[j], collection[j + 1] = collection[j + 1], collection[j]
         if not swapped:
             break  # Stop iteration if the collection is sorted.
-    return collection
+    return collect
 
 
 if __name__ == "__main__":
