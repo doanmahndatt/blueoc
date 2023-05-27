@@ -5,6 +5,8 @@ def bubble_sort(collection):
     comparable items inside
     :return: the same collection ordered by ascending
 
+    Some change here 
+
     Examples:
     >>> bubble_sort([0, 5, 2, 3, 2])
     [0, 2, 2, 3, 5]
